@@ -1,6 +1,9 @@
 VbaDoxygen
 ==========
-このスクリプトはExcelVBAのDoxygen文章を作成します。
+このスクリプトはExcelVBAのDoxygen文章を作成します。  
+
+http://qiita.com/mima_ita/items/635d57cc277254900c6a
+
 
 使い方
 ------
